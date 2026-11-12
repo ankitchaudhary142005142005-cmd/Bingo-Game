@@ -59,9 +59,3 @@ This project was developed to practice and demonstrate:
 
 **Jigyanshu Kumar**
 
-GitHub:
-https://github.com/prachiprashar
-
-## 📄 License
-
-This project is open-source and available for learning and personal use.
