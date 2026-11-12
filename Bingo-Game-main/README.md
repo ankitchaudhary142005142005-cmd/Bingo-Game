@@ -2,15 +2,6 @@
 
 A simple and interactive **Bingo Game** built using **HTML, CSS, and JavaScript**. The game provides an engaging interface with both **Random Mode** and **Manual Mode**, allowing players to choose how they want to play.
 
-## 🚀 Live Demo
-
-🔗 **Play the Bingo Game:**
-https://prachiprashar.github.io/Bingo-Game/
-
-## 📂 GitHub Repository
-
-🔗 **Source Code:**
-https://github.com/prachiprashar/Bingo-Game
 
 ## ✨ Features
 
@@ -51,42 +42,6 @@ Bingo-Game/
 4. Continue selecting/generating numbers during the game.
 5. Use the **Exit** option when you want to leave the game.
 
-## 💻 Run Locally
-
-To run the project on your local machine:
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/prachiprashar/Bingo-Game.git
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd Bingo-Game
-```
-
-### 3. Open the project
-
-You can simply open:
-
-```text
-index.html
-```
-
-in your browser.
-
-Alternatively, use **VS Code Live Server** to run the project locally.
-
-## 🌐 Deployment
-
-The project is deployed using **GitHub Pages**.
-
-### Live Website
-
-https://prachiprashar.github.io/Bingo-Game/
-
 ## 🎯 Project Purpose
 
 This project was developed to practice and demonstrate:
@@ -102,7 +57,7 @@ This project was developed to practice and demonstrate:
 
 ## 👩‍💻 Author
 
-**Prachi Prashar**
+**Jigyanshu Kumar**
 
 GitHub:
 https://github.com/prachiprashar
